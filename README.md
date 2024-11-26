@@ -17,7 +17,7 @@ Check out the live demo of the Text to Speech Converter [here](https://text-spee
 ## 📸 Project Preview
 Here's a sneak peek of the Text to Speech Converter application:
 
-![Project Preview](assets/Palindrome-Checker.png)
+![Project Preview](assets/Text-To-Speech-Converter.png)
 
 ## 🚀 Features
 - Converts any input text into speech.

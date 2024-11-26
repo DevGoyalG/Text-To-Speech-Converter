@@ -12,7 +12,7 @@
 A simple project that converts text into speech. The user inputs text, and with a click of a button, the application reads the text aloud using the browser's built-in text-to-speech functionality. It's designed to be intuitive and user-friendly.
 
 ## 🌐 Live Demo
-Check out the live demo of the Palindrome Checker [here](https://text-speech-converters.netlify.app/).
+Check out the live demo of the Text to Speech Converter [here](https://text-speech-converters.netlify.app/).
 
 ## 📸 Project Preview
 Here's a sneak peek of the Text to Speech Converter application:
